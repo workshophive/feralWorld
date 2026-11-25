@@ -1,11 +1,11 @@
 ﻿{
-  "id": "testmod",
-  "name": "Test Mod",
+  "id": "wsh.feralworld",
+  "name": "[PRE-ALPHA] Feral Expansion",
   "version": "0.1.0",
-  "authors": "Author",
-  "description": "Put a neat description here",
-  "tags": [],
-  "requirements": [],
-  "requirements_names": [],
+  "authors": "the workshop hive",
+  "description": "An expansion mod. Currently a work in progress.",
+  "tags": ["Regions"],
+  "requirements": ["crs", "regionkit"],
+  "requirements_names": ["Custom Regions Support", "RegionKit"],
   "checksum_override_version": false
 }
